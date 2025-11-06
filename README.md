@@ -113,14 +113,6 @@ A detailed data-handling explanation is available in the [Privacy Manifest](./PR
 
 ---
 
-## Project Goals
-
-1. Build a privacy-respecting social layer for outdoor explorers.  
-2. Demonstrate that offline-first, community-driven tech can be beautiful and functional.  
-3. Develop a sustainable open platform powered by its users — not ads or data harvesting.
-
----
-
 ## Current Status
 
 **Pre-Release Phase**
