@@ -1,6 +1,6 @@
 # ChainLynx: The Bikepacking Companion
-**The offline, privacy-first social network for bikepackers.**  
-Built for the wild, not the algorithm.�
+**The offline, privacy-first social network for bikepackers.** 
+Built for the wild, not the algorithm.
 
 ---
 
@@ -18,7 +18,7 @@ At its core, ChainLynx is guided by one principle:
 
 ---
 
-##  Project Goals
+## Vision & Goals
 
 1. **Build a privacy-respecting social layer for outdoor explorers**  
    ChainLynx aims to become a trusted space for bikepackers and bicycle tourers to connect — without sacrificing their privacy.  
@@ -115,13 +115,14 @@ A detailed data-handling explanation is available in the [Privacy Manifest](./PR
 
 ## Current Status
 
-**Pre-Release Phase**
+**Phase 1 – Active Development**
 
-The project is shared publicly for transparency and collaboration.  
-At this stage:
-- Forking and redistribution are disabled.  
-- Commercial use is **not permitted**.  
-- Collaboration via pull requests and discussions is welcome.
+The project is in its pre-release stage and actively seeking contributors.  
+You can explore the documentation, test components, and participate through GitHub Issues and Pull Requests.
+
+- Commercial use is **not permitted** before v1.0 release.  
+- Forking is temporarily limited to collaborators.  
+- All contributions are governed by the repository’s contribution guidelines.
 
 When the first stable release is ready, ChainLynx will transition to a full open-source license (MIT or AGPL).
 
@@ -136,25 +137,16 @@ You can help shape ChainLynx:
 
 ---
 
-## Documentation
-
-- [Privacy Manifest](./PRIVACY_MANIFEST.md)  
-- [Architecture Overview](./docs/Architecture%20Overview.pdf)  
-- [Offline AI Implementation Options](./docs/Technical%20Implementation%20Options%20for%20Offline%20AI.pdf)  
-- [Colour Palette & Branding](./branding/Colour%20Palette.pdf)
-
----
-
 ## Roadmap
 
-| Phase | Focus | Status |
-|--------|--------|--------|
-| 1 | Core React Native scaffolding | 🟢 In progress |
-| 2 | Offline route and map system | ⚪ Planned |
-| 3 | Feed, Meetups, Journal sharing | ⚪ Planned |
-| 4 | Secure messaging (Signal E2EE) | ⚪ Planned |
-| 5 | Offline AI assistants | ⚪ Planned |
-| 6 | Beta release | ⚪ Future |
+| Phase | Focus | Timeframe | Status |
+|-------|--------|------------|--------|
+| 1 | Core Foundation — app scaffolding, offline maps, authentication | Months 0–3 | 🟢 In progress |
+| 2 | Essential Features — journals, feed, trail reports, offline AI prototypes | Months 3–6 | ⚪ Planned |
+| 3 | Community & Sharing — meetups, route uploads, shared journals | Months 6–9 | ⚪ Planned |
+| 4 | Integrations & Optimization — Garmin/Wahoo, performance, privacy audit | Months 9–12 | ⚪ Planned |
+
+See the full technical [Development Roadmap](./docs/Development_Roadmap.pdf) for milestones and contributor roles.
 
 ---
 
@@ -168,13 +160,6 @@ You may:
 - Submit issues or pull requests  
 - Participate in design and feedback
 
-You may **not**:
-- Redistribute, fork, or modify this repository  
-- Use any part of this project for commercial purposes
-
-A full open-source license will be added when the stable version is released.  
-For questions or permissions, contact **chainlynx.app@gmail.com**.
-
 ---
 
 ## Connect
@@ -182,5 +167,8 @@ For questions or permissions, contact **chainlynx.app@gmail.com**.
 - Website: *coming soon*  
 - Email: **chainlynx.app@gmail.com**  
 - Socials: *coming soon*
+- For complete technical documentation, see [docs/README.md](./docs/README.md)
+
+---
 
 > *ChainLynx — The social network for the wild.*
