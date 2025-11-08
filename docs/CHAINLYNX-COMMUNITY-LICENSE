@@ -1,0 +1,126 @@
+# ChainLynx Community License (CCL)
+
+Version 1.0 — November 2025  
+© 2025 ChainLynx Project and individual contributors  
+Contact: chainlynx.app@gmail.com  
+
+---
+
+## 1. Purpose and Philosophy
+
+ChainLynx is a free, open-source community project created to serve cyclists and outdoor explorers everywhere.  
+Its mission is to build technology that protects privacy, fosters community, and rejects monetization or surveillance of any kind.  
+
+This license ensures that the ChainLynx codebase, documentation, and derivative works remain **free, open, privacy-respecting, and non-commercial — forever.**
+
+---
+
+## 2. Grant of Permission
+
+Subject to the terms of this license, anyone may:
+
+- Use, copy, and modify the ChainLynx source code for personal, educational, or research purposes.  
+- Contribute improvements, translations, or documentation.  
+- Distribute or fork the software after the public release of version 1.0.  
+
+All forks and redistributions must **remain free, open-source, and non-commercial.**  
+
+---
+
+## 3. Conditions of Use
+
+You **must not**:
+
+1. Use the ChainLynx software, documentation, or derivative works for **commercial purposes** of any kind.  
+   - “Commercial purposes” include selling, licensing, monetizing, bundling with paid services, advertising, tracking, data brokerage, analytics, or any revenue-generating use.  
+2. Include analytics, telemetry, data collection, or user tracking of any kind.  
+3. Sell, rent, or offer paid versions of the software.  
+4. Use the ChainLynx name, logo, or branding for unrelated projects without written permission.  
+
+You **must**:
+
+1. Preserve this license in all copies or forks.  
+2. Attribute the original work to the ChainLynx Project and link to the repository.  
+3. Maintain user privacy and security as core design principles.  
+4. Clearly state any modifications you make.  
+
+---
+
+## 4. Forks and Derivative Works
+
+After **version 1.0**, individuals and communities are welcome to fork or build upon ChainLynx, provided that:
+
+- All derivative works remain **non-commercial** and **open-source** under the same or compatible license.  
+- They honor the ChainLynx privacy charter and contain **no analytics, advertising, or data-tracking mechanisms**.  
+- They clearly identify themselves as forks and not official ChainLynx releases.  
+
+---
+
+## 5. Contributions
+
+By contributing to ChainLynx (code, design, or documentation), you agree that:
+
+- Your contributions are licensed under the same ChainLynx Community License.  
+- You will not assert any patent or proprietary claims against the project or its contributors.  
+- You affirm that your work does not include copyrighted or proprietary code from third parties.
+
+---
+
+## 6. No Warranty
+
+This software is provided **“as-is”**, without any warranty or guarantee.  
+The ChainLynx maintainers are not liable for any damages, loss, or misuse arising from the use or modification of this software.
+
+---
+
+## 7. Permanence of Non-Commercial Intent
+
+This project will **never adopt or grant a commercial license.**  
+No organization or individual may purchase, sublicense, or acquire exclusive rights to the software or its derivatives.  
+The ChainLynx name, data, and codebase shall remain forever free and community-controlled.
+
+---
+
+## 8. License Compatibility
+
+The ChainLynx Community License is **compatible** with open, non-commercial licenses such as:
+- Creative Commons BY-NC-SA 4.0  
+- PolyForm Noncommercial License 1.0.0  
+
+It is **not compatible** with permissive commercial licenses (e.g., MIT, Apache 2.0, GPL for-profit use).
+
+---
+
+## 9. Termination
+
+Violation of any of the terms above immediately and permanently revokes your rights under this license.  
+Continued use or distribution after termination constitutes infringement.
+
+---
+
+## 10. The ChainLynx Charter
+
+All ChainLynx-derived works must uphold these five core principles:
+
+1. **Privacy First:** No analytics, telemetry, or data harvesting.  
+2. **Transparency:** All source code and models remain public and auditable.  
+3. **Community Ownership:** No corporate control, no paywalls, no investors.  
+4. **Accessibility:** The software remains free to use and modify for everyone.  
+5. **Respect for Nature and People:** Technology should connect, not exploit.
+
+---
+
+### Summary (Plain Language)
+
+You can:
+- Use, modify, and share ChainLynx freely for personal or community use.  
+- Fork it after version 1.0, as long as your version stays open and non-commercial.  
+
+You cannot:
+- Sell it, track users, collect data, or build profit-driven services around it.  
+
+ChainLynx exists for the community — not for profit. Forever.
+
+---
+
+**End of License**
