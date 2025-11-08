@@ -54,7 +54,7 @@ At its core, ChainLynx follows one simple principle:
 
 | Category | Description |
 |-----------|-------------|
-| **Journey Mode (New)** | Record and share flexible, open-ended tours. ChainLynx automatically tracks your path, letting you drop pins, add notes, and connect with nearby riders — ideal for bicycle nomads and tourers. |
+| **Journey Mode** | Record and share flexible, open-ended tours. ChainLynx automatically tracks your path, letting you drop pins, add notes, and connect with nearby riders — ideal for bicycle nomads and tourers. |
 | **Offline Routes** | Explore curated bikepacking routes with full offline map tiles, GPX data, POIs, and elevation profiles. |
 | **Journals** | Keep personal ride logs locally or in your cloud. Choose to keep them private or share selected entries. |
 | **Meetups & Live Location** | Share your GPS position (or Garmin inReach MapShare) with your group or other riders nearby. Fully opt-in and temporary. |
