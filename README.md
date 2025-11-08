@@ -1,4 +1,4 @@
-# ChainLynx: The Traveling Cyclist’s Companion  
+# ChainLynx: The Adventure Cyclist’s Companion  
 **The offline, privacy-first social network for bikepackers and touring cyclists.**  
 Built for the wild, not the algorithm.  
 
